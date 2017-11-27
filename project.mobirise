@@ -19,7 +19,7 @@
         "#ffffff"
       ]
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/img-31a8964069c6-1-75x75.png",
     "noImageResize": "",
     "versionFirst": "4.2.3",
     "uniqCompNum": 3,
