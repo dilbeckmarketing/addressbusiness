@@ -23,7 +23,8 @@
     "noImageResize": "",
     "versionFirst": "4.2.3",
     "uniqCompNum": 3,
-    "versionPublish": "4.2.3"
+    "versionPublish": "4.2.3",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -41,7 +42,7 @@
             "showTitle": true,
             "showText": true,
             "showForm": true,
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": 2,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-1999x1999.jpg",
